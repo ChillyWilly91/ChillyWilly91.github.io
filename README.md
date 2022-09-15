@@ -3,4 +3,4 @@
 # Uncle pecos
 Практика верстки
 
-[Готовая работа](https://chillywilly91.github.io/Gihub/index.html "Готовая работа")
+[Первый макет](https://chillywilly91.github.io/Gihub/index.html) - Кривой, грязный, но собственноручно без готовых кодировок.
