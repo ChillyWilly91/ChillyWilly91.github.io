@@ -8,4 +8,4 @@
 
 
 
-[Первый макет по верстке](https://ChillyWilly91.github.io/index.html ) - Код грязный, кривой, но сам.
+[Второй макет по верстке](https://ChillyWilly91.github.io/index.html ) - Код грязный, кривой, но сам.
