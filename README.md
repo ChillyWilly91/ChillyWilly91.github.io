@@ -6,6 +6,3 @@
 
 [Первый макет по верстке](https://chillywilly91.github.io/Github/index.html) - Код грязный, кривой, но сам.
 
-
-
-[Второй макет по верстке](https://ChillyWilly91.github.io/Github/index.html ) - Код грязный, кривой, но сам.
